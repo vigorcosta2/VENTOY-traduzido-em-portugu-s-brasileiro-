@@ -1,0 +1,19 @@
+ L - IDIOMAS
+F1 - Exibir informacoes de ajuda
+F2 - Explorar e inicializar os arquivos no disco local
+F3 - Trocar o modo do menu entre Visualizacao em Arvore <-> Visualizacao em Lista
+F4 - Inicializar o Windows/Linux no disco local
+F5 - Utilitarios
+F6 - Carregar o Menu Personalizado do Grub2
+F7 - Trocar entre o Modo GUI <-> Modo TEXTO
+
+m/Ctrl+m - Checksum dos arquivos de imagem (md5/sha1/sha256/sha512)
+d/Ctrl+d - Modo Memdisk (Somente para pequeno WinPE/LiveCD ISO/IMG)
+w/Ctrl+w - Modo WIMBOOT (Somente para arquivos .ISO do Windows/WinPE)
+r/Ctrl+r - Modo Grub2 (Apenas para algumas distribuicoes Linux)
+i/Ctrl+i - Modo Compativel (Somente para depuracao)
+u/Ctrl+u - Carregar driver ISO EFI (somente para depuracao, nao pode ser usado oficialmente)
+
+
+
+Pressione ESC pra retornar...
